@@ -1,0 +1,31 @@
+Patient_ID,Gene,Mutation_Type,Pathogenicity,Recommended_Treatment,Clinical_Trial_Match,Biomarker,Expression_Level
+PAT_1,ALK,Insertion,Pathogenic,Radiotherapy,No,CDK4/6,0.49
+PAT_2,KRAS,Frameshift,Benign,Immunotherapy,Yes,MSI-H,4.83
+PAT_3,ALK,Nonsense,Pathogenic,Targeted Therapy,Yes,HER2,3.98
+PAT_4,EGFR,Insertion,Likely Pathogenic,Targeted Therapy,No,TMB,1.28
+PAT_5,BRAF,Insertion,Pathogenic,Immunotherapy,Yes,PD-L1,1.24
+PAT_6,ALK,Deletion,Likely Pathogenic,Clinical Trial,No,HER2,4.46
+PAT_7,ALK,Insertion,VUS,Immunotherapy,Yes,CDK4/6,4.34
+PAT_8,HER2,Nonsense,VUS,Chemotherapy,Yes,PD-L1,3.41
+PAT_9,BRAF,Insertion,Pathogenic,Clinical Trial,No,HER2,0.13
+PAT_10,HER2,Insertion,Likely Pathogenic,Clinical Trial,Yes,HER2,4.67
+PAT_11,ALK,Missense,Pathogenic,Clinical Trial,Yes,HER2,0.65
+PAT_12,KRAS,Nonsense,Benign,Clinical Trial,No,PD-L1,1.26
+PAT_13,ALK,Missense,Pathogenic,Chemotherapy,Yes,HER2,1.32
+PAT_14,ALK,Nonsense,Benign,Chemotherapy,No,MSI-H,1.58
+PAT_15,HER2,Deletion,VUS,Radiotherapy,Yes,CDK4/6,0.27
+PAT_16,BRCA1,Frameshift,Benign,Radiotherapy,Yes,HER2,4.66
+PAT_17,PIK3CA,Nonsense,Pathogenic,Radiotherapy,Yes,MSI-H,3.16
+PAT_18,KRAS,Deletion,Pathogenic,Chemotherapy,No,CDK4/6,2.22
+PAT_19,BRCA1,Frameshift,Likely Pathogenic,Radiotherapy,Yes,MSI-H,1.19
+PAT_20,HER2,Nonsense,Likely Pathogenic,Targeted Therapy,Yes,MSI-H,3.54
+PAT_21,HER2,Nonsense,Benign,Clinical Trial,No,PD-L1,2.85
+PAT_22,PIK3CA,Deletion,Pathogenic,Radiotherapy,No,CDK4/6,2.67
+PAT_23,PIK3CA,Frameshift,Pathogenic,Chemotherapy,Yes,PD-L1,2.12
+PAT_24,KRAS,Frameshift,Benign,Clinical Trial,No,PD-L1,1.58
+PAT_25,TP53,Frameshift,VUS,Clinical Trial,Yes,MSI-H,2.04
+PAT_26,BRAF,Insertion,VUS,Clinical Trial,No,PD-L1,4.04
+PAT_27,PIK3CA,Missense,VUS,Clinical Trial,Yes,HER2,2.56
+PAT_28,BRAF,Missense,VUS,Radiotherapy,No,CDK4/6,4.89
+PAT_29,KRAS,Frameshift,Benign,Radiotherapy,No,MSI-H,3.27
+PAT_30,PIK3CA,Missense,VUS,Clinical Trial,Yes,TMB,4.83

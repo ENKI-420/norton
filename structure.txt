@@ -1,0 +1,8 @@
+oncology_digital_twin/
+  ├── main.py
+  ├── views/
+  │     └── TumorVisualization.qml
+  ├── controllers/
+  │     └── tumor_simulation.py
+  └── assets/
+        └── models/
